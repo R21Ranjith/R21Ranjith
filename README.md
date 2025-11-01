@@ -3,16 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r21ranjith&label=Profile%20views&color=0e75b6&style=flat" alt="r21ranjith" /> </p>
 
-- 🔭 project [DESIGN AND IMPLEMENTATION OF ADDERS WITH SINGLE LUT FOR AERIAL IMAGE PROCESSING](https://github.com/R21Ranjith/VLSI-P1.git)
-- - 🔭 project [DESIGN AND ANALYSIS OF 4X4 BIT VARIOUS MULTIPLIER USING LUT AND IMPLEMENT IN FIR FILTER](https://github.com/R21Ranjith/VLSI-P2.git)
-  - - 🔭 project [ ANALYSIS OF 8X8 BIT VARIOUS MULTIPLIER USING LUT AND IMPLEMENT IN FIR FILTER](https://github.com/R21Ranjith/VLSI-P2.git)
-
-- 🌱 I’m currently learning **java**
-- 👨‍💻 All of my projects are available at [https://www.figma.com/proto/hbCLjdJtQPaOEaIFmsx5dW/Web-Login-(Community)?type=design&node-id=102-4&t=aFwhbIC4KoPM6MC7-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=102%3A4](https://www.figma.com/proto/hbCLjdJtQPaOEaIFmsx5dW/Web-Login-(Community)?type=design&node-id=102-4&t=aFwhbIC4KoPM6MC7-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=102%3A4)
 
 - 📫 How to reach me **ranjithrk2111@gmail.com**
 
-- 📄 Know about my experiences [https://ranjithrresume.tiiny.site](https://ranjithrresume.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
